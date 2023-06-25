@@ -1,1 +1,1 @@
-This folder contains introduction to git version control
+This folder contains introductory practice to git
